@@ -1,0 +1,8 @@
+ul li {
+  cursor: pointer;
+}
+ul li.active :hover {
+  cursor: progress;
+}
+
+/*# sourceMappingURL=style.css.map */
